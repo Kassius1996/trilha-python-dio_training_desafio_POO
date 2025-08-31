@@ -41,6 +41,7 @@ Saque → operação de saque com regras de limite e saldo.
 Deposito → operação de depósito.
 
 🖥️ Menu Principal
+
 ================ MENU ================
 [d] Depositar
 [s] Sacar
@@ -62,7 +63,7 @@ Certifique-se de ter Python 3.10+ instalado.
 
 Execute o programa:
 
-python banco.py
+python sistema_bancario.py
 
 📌 Exemplo de Uso
 Informe o CPF (somente número): 12345678900
